@@ -11,7 +11,7 @@ CODE TO MAKE FORM
 
 from tkinter import*
 root=Tk()
-root.maxsize(height=500,width=800)
+root.maxsize(height=600,width=800)
 root.minsize(height=500,width=500)
 root.title("Form")
 var1=IntVar()
